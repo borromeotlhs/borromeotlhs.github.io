@@ -1,1 +1,7 @@
-this is my page! my page is amazing! Give it a lick. Tastes just like raisins.
+When you need work on your backend, 🤙🏼.
+
+🐥:@tjborromeo<br>
+⏰:@optimizedprime<br>
+⛓:[tjborromeo](https://www.LinkedIn.com/in/tjborromeo)<br>
+Minecraft: tjbobo<br>
+Continuum/Subspace: apocalypse_cow<br>
