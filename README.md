@@ -1,6 +1,6 @@
-I do this for fun, but I also like Model Based Systems Engineering.
-
-Stay tuned for self-driving cars since my NDA with Ford and Argo.ai has expired. 🤙🏼
+Model Based Systems Engineering with SysML allows one to speak about system rigorously, thoroughly and meticulously. If you don't like that, then you probably never liked Systems Engineering.
+I can help with that. Introducing:"SysML 4 Kidz: An Illustrated Guide to Hand Drawn Diagrams." Available soon on Amazon!
+Stay tuned for self-driving cars since Argo.ai was a bust 🤙🏼
 
 ![TJ](./lnkdin.jfif)
 
